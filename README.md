@@ -1,3 +1,11 @@
+Semantic segmentations as the imo most interesting problem, 
+but proper dataset is big pain in the ass, so you can use one from the listed below. 
+
+Will try to update regularly. 
+
+[Semantic segmentation](https://paperswithcode.com/task/semantic-segmentation)
+
+
 | Title                                              | Size     | About                                                                                                                                                                                                                                                           | Source                                                                                           |   |
 |----------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---|
 | Camseq2007                                         | 95MB     | 101 image pairs for semantic segmentation from the University of Cambridge                                                                                                                                                                                      | [Link](https://www.kaggle.com/datasets/carlolepelaars/camseq-semantic-segmentation)   |
